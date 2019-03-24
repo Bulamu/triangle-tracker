@@ -1,0 +1,8 @@
+body{
+  background-image:url(three.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+h1{
+  color:blue;
+}
