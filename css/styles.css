@@ -53,3 +53,10 @@ body {
   color: 	#428bca;
   background-color: white;
 }
+.type {
+  color: red;
+  text-transform: uppercase;
+}
+.not {
+  color: red;
+}
