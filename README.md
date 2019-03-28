@@ -17,7 +17,6 @@
 #### HTML, Javascript and CSS.
 
 ### BDD
-
   |Behaviour         |Input       |Output         |
   -------------------------------------------------
   |All sides equal   | 5,5,5      |Equilateral    |
