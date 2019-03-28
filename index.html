@@ -12,14 +12,26 @@
 <div align="center">
   <h1> Triangle Type Finder<?h1>
     <h2> This application will help you to determine the type of a triangle by analysing the sides inputted</h2>
-
-  <input type="number" id="first_side"></input>
-  <input type="number" id="second_side"></input>
-  <input type="number" id="third_side"></input><br>
-
-  <button type="submit" id="check" onclick="checkType();">Click to check</button>
-  <br>
-  <p id="output"></p>
+    <div class="form">
+    <h4>CHECK OUT THE TYPE OF TRIANGLE</h4>
+    <p>Enter the lengths of each of the triangle's sides(digits) in the boxes below. </p>
+    <div class="input-field">
+      <label for="num1">Side 1</label>
+      <input class="number" type="text" id="num1" name="num1">
+    </div>
+    <div class="input-field">
+       <label for="num2">Side 2</label>
+        <input class="number" type="text" id="num2" name="num2">
+    </div>
+    <div class="input-field">
+      <label for="num3">Side 3</label>
+      <input class="number" type="text" id="num3" name="num3">
+    </div>
+  </div>
+ <input class="button" type="button" value="Check" onclick="triangle()">
+ <input class="button" type="button" value="Reset" onclick="reset()">
+ <p id="display"></p>
+</div>
 </div>
 
 </body>
