@@ -4,15 +4,14 @@
 #### Bulamu Richard Mvule.
 
 ## Description.
-#### This is an application that determines whether a set of three numbers(representing the three sides of a triangle can either make a Scalene,Equilateral and or Isosceles triangle. It can be accessed through;Bulamu/github.io/triangle-tracker
-
+#### This is an application that determines whether a set of three numbers(representing the three sides of a triangle can either make a Scalene,Equilateral and or Isosceles triangle.
 ## Prerequisites
 #### You need to have git installed You can install it with the following command in your terminal $ sudo apt install git-all
 
 ## Setup
 #### To access this project on your local files, you can clone it using these steps.
 #### 1.Open your terminal
-#### 2.Use this command $ git clone https://github.com/marvinChomba/triangle-tracker. This will clone the repositoty into your local folder
+#### 2.Use this command $ git clone https://github.com/Bulamu/triangle-tracker. This will clone the repositoty into your local folder
 
 ## Languages used
 #### HTML, Javascript and CSS.
