@@ -17,14 +17,12 @@
 #### HTML, Javascript and CSS.
 
 ### BDD
+
   |Behaviour         |Input       |Output         |
-  -------------------------------------------------
+  |:----------------:|:----------:|:-------------:|
   |All sides equal   | 5,5,5      |Equilateral    |
-
   |Two sides equal   |4,4,5       |Isoscles       |
-
   |All sides unequal |2,4,7       |Scalene        |
-
   |Not numerical     |3,5,50      |Not a triangle |
 
 ## Licence
