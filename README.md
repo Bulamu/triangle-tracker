@@ -11,7 +11,7 @@
 ## Setup
 #### To access this project on your local files, you can clone it using these steps.
 #### 1.Open your terminal
-#### 2.Use this command $ git clone https://github.com/Bulamu/triangle-tracker. This will clone the repositoty into your local folder
+#### 2.Use this command $ git clone https://github.com/Bulamu/triangle-tracker. This will clone the repository into your local folder
 
 ## Languages used
 #### HTML, Javascript and CSS.
